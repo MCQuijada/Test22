@@ -3,7 +3,9 @@ body {
 }
 
 h1,
-p {
+p,
+h2 {
     color: rgb(255, 255, 255);
     font-family: 'Times New Roman', Times, serif;
 }
+
