@@ -3,3 +3,5 @@ Esto es contenido de la carpeta, pero podemos agregarlo cositas ou yea.
 Esto es lo que pasa cuando agrego una nueva linea.
 
 Ademas, se puede agregar una bonita linea extra.
+
+Segun github puedo anadir cositas desde aqui asi a lo maldito o mai gat
