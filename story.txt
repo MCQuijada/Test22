@@ -5,3 +5,8 @@ Esto es lo que pasa cuando agrego una nueva linea.
 Ademas, se puede agregar una bonita linea extra.
 
 Segun github puedo anadir cositas desde aqui asi a lo maldito o mai gat
+
+Esta es una linea agregada directamente desde otro computador que no fue el original en el cual se escribio este documento de texto.
+
+Claramente no tienes idea del potencial que escondes y de lo que erez capaz, puede que aunque te sientas como la mierda sepas que detras de cualquier
+exito siempre existira un sacrificio, la suerte y la disciplina.
