@@ -10,3 +10,14 @@ O mai gat esto sera epico papus
 
 ## Y recuerda...
 "Easy choices hard life, hard choices easy life"
+
+## Ahora un pedazo de codigo
+```python
+import something
+
+# I don't know what it does
+something.algo("do something stupid")
+
+# I have no idea
+something.but("Do you believe in gravity?")
+```
