@@ -7,6 +7,7 @@ O mai gat esto sera epico papus
 * Palabras
 * Un fondo coloreado
 * Entre muchas otras cosas que puedes ver con tu imaginacion porque eso es la pagina literalmente
+* La pagina esta disponible en tarjetas perforadas si es de su preferencia leer codigos en este tipo de formato, se las enviaremos a su direccion, el tiempo de envio promedio es de tan solo Diez billones de años, esto es mucho mejor que otras alternativas de páginas.
 
 ## Y recuerda...
 "Easy choices hard life, hard choices easy life"
